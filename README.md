@@ -1,6 +1,11 @@
 # char-boltzmann
 
-Character-level RBMs for short text. For more information, check out [my blog post](https://colinmorris.github.io/blog/dreaming-rbms).
+Exploring character-level RBMs for short text.
+
+Modified RBM code from
+https://github.com/colinmorris/char-rbm
+
+See also: https://colinmorris.github.io/blog/dreaming-rbms
 
 # Requirements
 
